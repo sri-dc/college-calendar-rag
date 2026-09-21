@@ -1,0 +1,3353 @@
+[
+  {
+    "date": "1",
+    "day_of_week": "FRI",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "2",
+    "day_of_week": "SAT",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "3",
+    "day_of_week": "SUN",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "4",
+    "day_of_week": "MON",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "5",
+    "day_of_week": "TUE",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "6",
+    "day_of_week": "WED",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "7",
+    "day_of_week": "THU",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "8",
+    "day_of_week": "FRI",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "9",
+    "day_of_week": "SAT",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "10",
+    "day_of_week": "SUN",
+    "month_year": "July - 2022",
+    "event_description": "Bakrid - Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "11",
+    "day_of_week": "MON",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "12",
+    "day_of_week": "TUE",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "13",
+    "day_of_week": "WED",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "14",
+    "day_of_week": "THU",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "15",
+    "day_of_week": "FRI",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "16",
+    "day_of_week": "SAT",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "17",
+    "day_of_week": "SUN",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "18",
+    "day_of_week": "MON",
+    "month_year": "July - 2022",
+    "event_description": "Opening for the Academic year 2022-23",
+    "cycle_number": "1",
+    "day_order": "I",
+    "working_day_number": "1",
+    "is_holiday": false
+  },
+  {
+    "date": "19",
+    "day_of_week": "TUE",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": "1",
+    "day_order": "II",
+    "working_day_number": "2",
+    "is_holiday": false
+  },
+  {
+    "date": "20",
+    "day_of_week": "WED",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": "1",
+    "day_order": "III",
+    "working_day_number": "3",
+    "is_holiday": false
+  },
+  {
+    "date": "21",
+    "day_of_week": "THU",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": "1",
+    "day_order": "IV",
+    "working_day_number": "4",
+    "is_holiday": false
+  },
+  {
+    "date": "22",
+    "day_of_week": "FRI",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": "1",
+    "day_order": "V",
+    "working_day_number": "5",
+    "is_holiday": false
+  },
+  {
+    "date": "23",
+    "day_of_week": "SAT",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": "1",
+    "day_order": "VI",
+    "working_day_number": "6",
+    "is_holiday": false
+  },
+  {
+    "date": "24",
+    "day_of_week": "SUN",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "25",
+    "day_of_week": "MON",
+    "month_year": "July - 2022",
+    "event_description": "Commencement of I Year UG classes - Unaided",
+    "cycle_number": "2",
+    "day_order": "I",
+    "working_day_number": "7",
+    "is_holiday": false
+  },
+  {
+    "date": "26",
+    "day_of_week": "TUE",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": "2",
+    "day_order": "II",
+    "working_day_number": "8",
+    "is_holiday": false
+  },
+  {
+    "date": "27",
+    "day_of_week": "WED",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": "2",
+    "day_order": "III",
+    "working_day_number": "9",
+    "is_holiday": false
+  },
+  {
+    "date": "28",
+    "day_of_week": "THU",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": "2",
+    "day_order": "IV",
+    "working_day_number": "10",
+    "is_holiday": false
+  },
+  {
+    "date": "29",
+    "day_of_week": "FRI",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": "2",
+    "day_order": "V",
+    "working_day_number": "11",
+    "is_holiday": false
+  },
+  {
+    "date": "30",
+    "day_of_week": "SAT",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": "2",
+    "day_order": "VI",
+    "working_day_number": "12",
+    "is_holiday": false
+  },
+  {
+    "date": "31",
+    "day_of_week": "SUN",
+    "month_year": "July - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "1",
+    "day_of_week": "MON",
+    "month_year": "August - 2022",
+    "event_description": "Commencement of I year UG Classes - Aided",
+    "cycle_number": "3",
+    "day_order": "I",
+    "working_day_number": "13",
+    "is_holiday": false
+  },
+  {
+    "date": "2",
+    "day_of_week": "TUE",
+    "month_year": "August - 2022",
+    "event_description": "",
+    "cycle_number": "3",
+    "day_order": "II",
+    "working_day_number": "14",
+    "is_holiday": false
+  },
+  {
+    "date": "3",
+    "day_of_week": "WED",
+    "month_year": "August - 2022",
+    "event_description": "Adi Peruku - Compensatory Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "4",
+    "day_of_week": "THU",
+    "month_year": "August - 2022",
+    "event_description": "",
+    "cycle_number": "3",
+    "day_order": "III",
+    "working_day_number": "15",
+    "is_holiday": false
+  },
+  {
+    "date": "5",
+    "day_of_week": "FRI",
+    "month_year": "August - 2022",
+    "event_description": "",
+    "cycle_number": "3",
+    "day_order": "IV",
+    "working_day_number": "16",
+    "is_holiday": false
+  },
+  {
+    "date": "6",
+    "day_of_week": "SAT",
+    "month_year": "August - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "7",
+    "day_of_week": "SUN",
+    "month_year": "August - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "8",
+    "day_of_week": "MON",
+    "month_year": "August - 2022",
+    "event_description": "Working day",
+    "cycle_number": "3",
+    "day_order": "V",
+    "working_day_number": "17",
+    "is_holiday": false
+  },
+  {
+    "date": "9",
+    "day_of_week": "TUE",
+    "month_year": "August - 2022",
+    "event_description": "Muharram - Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "10",
+    "day_of_week": "WED",
+    "month_year": "August - 2022",
+    "event_description": "",
+    "cycle_number": "3",
+    "day_order": "VI",
+    "working_day_number": "18",
+    "is_holiday": false
+  },
+  {
+    "date": "11",
+    "day_of_week": "THU",
+    "month_year": "August - 2022",
+    "event_description": "",
+    "cycle_number": "4",
+    "day_order": "I",
+    "working_day_number": "19",
+    "is_holiday": false
+  },
+  {
+    "date": "12",
+    "day_of_week": "FRI",
+    "month_year": "August - 2022",
+    "event_description": "",
+    "cycle_number": "4",
+    "day_order": "II",
+    "working_day_number": "20",
+    "is_holiday": false
+  },
+  {
+    "date": "13",
+    "day_of_week": "SAT",
+    "month_year": "August - 2022",
+    "event_description": "",
+    "cycle_number": "4",
+    "day_order": "III",
+    "working_day_number": "21",
+    "is_holiday": false
+  },
+  {
+    "date": "14",
+    "day_of_week": "SUN",
+    "month_year": "August - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "15",
+    "day_of_week": "MON",
+    "month_year": "August - 2022",
+    "event_description": "Independence Day - Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "16",
+    "day_of_week": "TUE",
+    "month_year": "August - 2022",
+    "event_description": "",
+    "cycle_number": "4",
+    "day_order": "IV",
+    "working_day_number": "22",
+    "is_holiday": false
+  },
+  {
+    "date": "17",
+    "day_of_week": "WED",
+    "month_year": "August - 2022",
+    "event_description": "Issue of ESE Application for II & III Year UG and PG",
+    "cycle_number": "4",
+    "day_order": "V",
+    "working_day_number": "23",
+    "is_holiday": false
+  },
+  {
+    "date": "18",
+    "day_of_week": "THU",
+    "month_year": "August - 2022",
+    "event_description": "",
+    "cycle_number": "4",
+    "day_order": "VI",
+    "working_day_number": "24",
+    "is_holiday": false
+  },
+  {
+    "date": "19",
+    "day_of_week": "FRI",
+    "month_year": "August - 2022",
+    "event_description": "Krishna Jayanthi - Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "20",
+    "day_of_week": "SAT",
+    "month_year": "August - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "21",
+    "day_of_week": "SUN",
+    "month_year": "August - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "22",
+    "day_of_week": "MON",
+    "month_year": "August - 2022",
+    "event_description": "",
+    "cycle_number": "5",
+    "day_order": "I",
+    "working_day_number": "25",
+    "is_holiday": false
+  },
+  {
+    "date": "23",
+    "day_of_week": "TUE",
+    "month_year": "August - 2022",
+    "event_description": "",
+    "cycle_number": "5",
+    "day_order": "II",
+    "working_day_number": "26",
+    "is_holiday": false
+  },
+  {
+    "date": "24",
+    "day_of_week": "WED",
+    "month_year": "August - 2022",
+    "event_description": "",
+    "cycle_number": "5",
+    "day_order": "III",
+    "working_day_number": "27",
+    "is_holiday": false
+  },
+  {
+    "date": "25",
+    "day_of_week": "THU",
+    "month_year": "August - 2022",
+    "event_description": "Last Date for payment of ESE fee (III Year UG) without fine",
+    "cycle_number": "5",
+    "day_order": "IV",
+    "working_day_number": "28",
+    "is_holiday": false
+  },
+  {
+    "date": "26",
+    "day_of_week": "FRI",
+    "month_year": "August - 2022",
+    "event_description": "Last Date for payment of ESE fee (II Year UG) without fine",
+    "cycle_number": "5",
+    "day_order": "V",
+    "working_day_number": "29",
+    "is_holiday": false
+  },
+  {
+    "date": "27",
+    "day_of_week": "SAT",
+    "month_year": "August - 2022",
+    "event_description": "Last Date for payment of ESE fee (II Year PG) without fine",
+    "cycle_number": "5",
+    "day_order": "VI",
+    "working_day_number": "30",
+    "is_holiday": false
+  },
+  {
+    "date": "28",
+    "day_of_week": "SUN",
+    "month_year": "August - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "29",
+    "day_of_week": "MON",
+    "month_year": "August - 2022",
+    "event_description": "",
+    "cycle_number": "6",
+    "day_order": "I",
+    "working_day_number": "31",
+    "is_holiday": false
+  },
+  {
+    "date": "30",
+    "day_of_week": "TUE",
+    "month_year": "August - 2022",
+    "event_description": "",
+    "cycle_number": "6",
+    "day_order": "II",
+    "working_day_number": "32",
+    "is_holiday": false
+  },
+  {
+    "date": "31",
+    "day_of_week": "WED",
+    "month_year": "August - 2022",
+    "event_description": "Vinayakar Chathurthi - Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "1",
+    "day_of_week": "THU",
+    "month_year": "September - 2022",
+    "event_description": "",
+    "cycle_number": "6",
+    "day_order": "III",
+    "working_day_number": "33",
+    "is_holiday": false
+  },
+  {
+    "date": "2",
+    "day_of_week": "FRI",
+    "month_year": "September - 2022",
+    "event_description": "Last Date for payment of ESE fee (III Year UG) with fine Rs.100",
+    "cycle_number": "6",
+    "day_order": "IV",
+    "working_day_number": "34",
+    "is_holiday": false
+  },
+  {
+    "date": "3",
+    "day_of_week": "SAT",
+    "month_year": "September - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "4",
+    "day_of_week": "SUN",
+    "month_year": "September - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "5",
+    "day_of_week": "MON",
+    "month_year": "September - 2022",
+    "event_description": "Last Date for payment of ESE fee (II Year UG & II Year PG) with fine Rs.100",
+    "cycle_number": "6",
+    "day_order": "V",
+    "working_day_number": "35",
+    "is_holiday": false
+  },
+  {
+    "date": "6",
+    "day_of_week": "TUE",
+    "month_year": "September - 2022",
+    "event_description": "Last date for submission of Question Paper for I CIA Examinations",
+    "cycle_number": "6",
+    "day_order": "VI",
+    "working_day_number": "36",
+    "is_holiday": false
+  },
+  {
+    "date": "7",
+    "day_of_week": "WED",
+    "month_year": "September - 2022",
+    "event_description": "",
+    "cycle_number": "7",
+    "day_order": "I",
+    "working_day_number": "37",
+    "is_holiday": false
+  },
+  {
+    "date": "8",
+    "day_of_week": "THU",
+    "month_year": "September - 2022",
+    "event_description": "Onam - Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "9",
+    "day_of_week": "FRI",
+    "month_year": "September - 2022",
+    "event_description": "",
+    "cycle_number": "7",
+    "day_order": "II",
+    "working_day_number": "38",
+    "is_holiday": false
+  },
+  {
+    "date": "10",
+    "day_of_week": "SAT",
+    "month_year": "September - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "11",
+    "day_of_week": "SUN",
+    "month_year": "September - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "12",
+    "day_of_week": "MON",
+    "month_year": "September - 2022",
+    "event_description": "",
+    "cycle_number": "7",
+    "day_order": "III",
+    "working_day_number": "39",
+    "is_holiday": false
+  },
+  {
+    "date": "13",
+    "day_of_week": "TUE",
+    "month_year": "September - 2022",
+    "event_description": "",
+    "cycle_number": "7",
+    "day_order": "IV",
+    "working_day_number": "40",
+    "is_holiday": false
+  },
+  {
+    "date": "14",
+    "day_of_week": "WED",
+    "month_year": "September - 2022",
+    "event_description": "",
+    "cycle_number": "7",
+    "day_order": "V",
+    "working_day_number": "41",
+    "is_holiday": false
+  },
+  {
+    "date": "15",
+    "day_of_week": "THU",
+    "month_year": "September - 2022",
+    "event_description": "",
+    "cycle_number": "7",
+    "day_order": "VI",
+    "working_day_number": "42",
+    "is_holiday": false
+  },
+  {
+    "date": "16",
+    "day_of_week": "FRI",
+    "month_year": "September - 2022",
+    "event_description": "",
+    "cycle_number": "8",
+    "day_order": "I",
+    "working_day_number": "43",
+    "is_holiday": false
+  },
+  {
+    "date": "17",
+    "day_of_week": "SAT",
+    "month_year": "September - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "18",
+    "day_of_week": "SUN",
+    "month_year": "September - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "19",
+    "day_of_week": "MON",
+    "month_year": "September - 2022",
+    "event_description": "",
+    "cycle_number": "8",
+    "day_order": "II",
+    "working_day_number": "44",
+    "is_holiday": false
+  },
+  {
+    "date": "20",
+    "day_of_week": "TUE",
+    "month_year": "September - 2022",
+    "event_description": "Library Committee Meeting",
+    "cycle_number": "8",
+    "day_order": "III",
+    "working_day_number": "45",
+    "is_holiday": false
+  },
+  {
+    "date": "21",
+    "day_of_week": "WED",
+    "month_year": "September - 2022",
+    "event_description": "",
+    "cycle_number": "8",
+    "day_order": "IV",
+    "working_day_number": "46",
+    "is_holiday": false
+  },
+  {
+    "date": "22",
+    "day_of_week": "THU",
+    "month_year": "September - 2022",
+    "event_description": "Commencement of I CIA Examinations",
+    "cycle_number": "8",
+    "day_order": "V",
+    "working_day_number": "47",
+    "is_holiday": false
+  },
+  {
+    "date": "23",
+    "day_of_week": "FRI",
+    "month_year": "September - 2022",
+    "event_description": "",
+    "cycle_number": "8",
+    "day_order": "VI",
+    "working_day_number": "48",
+    "is_holiday": false
+  },
+  {
+    "date": "24",
+    "day_of_week": "SAT",
+    "month_year": "September - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "25",
+    "day_of_week": "SUN",
+    "month_year": "September - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "26",
+    "day_of_week": "MON",
+    "month_year": "September - 2022",
+    "event_description": "",
+    "cycle_number": "9",
+    "day_order": "I",
+    "working_day_number": "49",
+    "is_holiday": false
+  },
+  {
+    "date": "27",
+    "day_of_week": "TUE",
+    "month_year": "September - 2022",
+    "event_description": "",
+    "cycle_number": "9",
+    "day_order": "II",
+    "working_day_number": "50",
+    "is_holiday": false
+  },
+  {
+    "date": "28",
+    "day_of_week": "WED",
+    "month_year": "September - 2022",
+    "event_description": "",
+    "cycle_number": "9",
+    "day_order": "III",
+    "working_day_number": "51",
+    "is_holiday": false
+  },
+  {
+    "date": "29",
+    "day_of_week": "THU",
+    "month_year": "September - 2022",
+    "event_description": "",
+    "cycle_number": "9",
+    "day_order": "IV",
+    "working_day_number": "52",
+    "is_holiday": false
+  },
+  {
+    "date": "30",
+    "day_of_week": "FRI",
+    "month_year": "September - 2022",
+    "event_description": "Issue of ESE application for I Year UG & PG",
+    "cycle_number": "9",
+    "day_order": "V",
+    "working_day_number": "53",
+    "is_holiday": false
+  },
+  {
+    "date": "1",
+    "day_of_week": "SAT",
+    "month_year": "October - 2022",
+    "event_description": "Compensatory Working Day",
+    "cycle_number": "9",
+    "day_order": "VI",
+    "working_day_number": "54",
+    "is_holiday": false
+  },
+  {
+    "date": "2",
+    "day_of_week": "SUN",
+    "month_year": "October - 2022",
+    "event_description": "Gandhi Jayanti - Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "3",
+    "day_of_week": "MON",
+    "month_year": "October - 2022",
+    "event_description": "Compensatory Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "4",
+    "day_of_week": "TUE",
+    "month_year": "October - 2022",
+    "event_description": "Ayudha Pooja- Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "5",
+    "day_of_week": "WED",
+    "month_year": "October - 2022",
+    "event_description": "Vijayadasami - Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "6",
+    "day_of_week": "THU",
+    "month_year": "October - 2022",
+    "event_description": "Last date for the payment of ESE fee (I year UG) without fine",
+    "cycle_number": "10",
+    "day_order": "I",
+    "working_day_number": "55",
+    "is_holiday": false
+  },
+  {
+    "date": "7",
+    "day_of_week": "FRI",
+    "month_year": "October - 2022",
+    "event_description": "Last date for the payment of ESE fee (I year PG) without fine",
+    "cycle_number": "10",
+    "day_order": "II",
+    "working_day_number": "56",
+    "is_holiday": false
+  },
+  {
+    "date": "8",
+    "day_of_week": "SAT",
+    "month_year": "October - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "9",
+    "day_of_week": "SUN",
+    "month_year": "October - 2022",
+    "event_description": "Milad-un-Nabi - Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "10",
+    "day_of_week": "MON",
+    "month_year": "October - 2022",
+    "event_description": "Finance Committee Meeting",
+    "cycle_number": "10",
+    "day_order": "III",
+    "working_day_number": "57",
+    "is_holiday": false
+  },
+  {
+    "date": "11",
+    "day_of_week": "TUE",
+    "month_year": "October - 2022",
+    "event_description": "",
+    "cycle_number": "10",
+    "day_order": "IV",
+    "working_day_number": "58",
+    "is_holiday": false
+  },
+  {
+    "date": "12",
+    "day_of_week": "WED",
+    "month_year": "October - 2022",
+    "event_description": "",
+    "cycle_number": "10",
+    "day_order": "V",
+    "working_day_number": "59",
+    "is_holiday": false
+  },
+  {
+    "date": "13",
+    "day_of_week": "THU",
+    "month_year": "October - 2022",
+    "event_description": "Last date for the payment of ESE fee (I year PG&UG) with fine Rs.100",
+    "cycle_number": "10",
+    "day_order": "VI",
+    "working_day_number": "60",
+    "is_holiday": false
+  },
+  {
+    "date": "14",
+    "day_of_week": "FRI",
+    "month_year": "October - 2022",
+    "event_description": "",
+    "cycle_number": "11",
+    "day_order": "I",
+    "working_day_number": "61",
+    "is_holiday": false
+  },
+  {
+    "date": "15",
+    "day_of_week": "SAT",
+    "month_year": "October - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "16",
+    "day_of_week": "SUN",
+    "month_year": "October - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "17",
+    "day_of_week": "MON",
+    "month_year": "October - 2022",
+    "event_description": "",
+    "cycle_number": "11",
+    "day_order": "II",
+    "working_day_number": "62",
+    "is_holiday": false
+  },
+  {
+    "date": "18",
+    "day_of_week": "TUE",
+    "month_year": "October - 2022",
+    "event_description": "",
+    "cycle_number": "11",
+    "day_order": "III",
+    "working_day_number": "63",
+    "is_holiday": false
+  },
+  {
+    "date": "19",
+    "day_of_week": "WED",
+    "month_year": "October - 2022",
+    "event_description": "",
+    "cycle_number": "11",
+    "day_order": "IV",
+    "working_day_number": "64",
+    "is_holiday": false
+  },
+  {
+    "date": "20",
+    "day_of_week": "THU",
+    "month_year": "October - 2022",
+    "event_description": "",
+    "cycle_number": "11",
+    "day_order": "V",
+    "working_day_number": "65",
+    "is_holiday": false
+  },
+  {
+    "date": "21",
+    "day_of_week": "FRI",
+    "month_year": "October - 2022",
+    "event_description": "",
+    "cycle_number": "11",
+    "day_order": "VI",
+    "working_day_number": "66",
+    "is_holiday": false
+  },
+  {
+    "date": "22",
+    "day_of_week": "SAT",
+    "month_year": "October - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "23",
+    "day_of_week": "SUN",
+    "month_year": "October - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "24",
+    "day_of_week": "MON",
+    "month_year": "October - 2022",
+    "event_description": "Deepavali- Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "25",
+    "day_of_week": "TUE",
+    "month_year": "October - 2022",
+    "event_description": "",
+    "cycle_number": "12",
+    "day_order": "I",
+    "working_day_number": "67",
+    "is_holiday": false
+  },
+  {
+    "date": "26",
+    "day_of_week": "WED",
+    "month_year": "October - 2022",
+    "event_description": "",
+    "cycle_number": "12",
+    "day_order": "II",
+    "working_day_number": "68",
+    "is_holiday": false
+  },
+  {
+    "date": "27",
+    "day_of_week": "THU",
+    "month_year": "October - 2022",
+    "event_description": "Last date for submission of Question Paper for II CIA Examinations",
+    "cycle_number": "12",
+    "day_order": "III",
+    "working_day_number": "69",
+    "is_holiday": false
+  },
+  {
+    "date": "28",
+    "day_of_week": "FRI",
+    "month_year": "October - 2022",
+    "event_description": "",
+    "cycle_number": "12",
+    "day_order": "IV",
+    "working_day_number": "70",
+    "is_holiday": false
+  },
+  {
+    "date": "29",
+    "day_of_week": "SAT",
+    "month_year": "October - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "30",
+    "day_of_week": "SUN",
+    "month_year": "October - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "31",
+    "day_of_week": "MON",
+    "month_year": "October - 2022",
+    "event_description": "",
+    "cycle_number": "12",
+    "day_order": "V",
+    "working_day_number": "71",
+    "is_holiday": false
+  },
+  {
+    "date": "1",
+    "day_of_week": "TUE",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": "12",
+    "day_order": "VI",
+    "working_day_number": "72",
+    "is_holiday": false
+  },
+  {
+    "date": "2",
+    "day_of_week": "WED",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": "13",
+    "day_order": "I",
+    "working_day_number": "73",
+    "is_holiday": false
+  },
+  {
+    "date": "3",
+    "day_of_week": "THU",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": "13",
+    "day_order": "II",
+    "working_day_number": "74",
+    "is_holiday": false
+  },
+  {
+    "date": "4",
+    "day_of_week": "FRI",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": "13",
+    "day_order": "III",
+    "working_day_number": "75",
+    "is_holiday": false
+  },
+  {
+    "date": "5",
+    "day_of_week": "SAT",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "6",
+    "day_of_week": "SUN",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "7",
+    "day_of_week": "MON",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": "13",
+    "day_order": "IV",
+    "working_day_number": "76",
+    "is_holiday": false
+  },
+  {
+    "date": "8",
+    "day_of_week": "TUE",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": "13",
+    "day_order": "V",
+    "working_day_number": "77",
+    "is_holiday": false
+  },
+  {
+    "date": "9",
+    "day_of_week": "WED",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": "13",
+    "day_order": "VI",
+    "working_day_number": "78",
+    "is_holiday": false
+  },
+  {
+    "date": "10",
+    "day_of_week": "THU",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": "14",
+    "day_order": "I",
+    "working_day_number": "79",
+    "is_holiday": false
+  },
+  {
+    "date": "11",
+    "day_of_week": "FRI",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": "14",
+    "day_order": "II",
+    "working_day_number": "80",
+    "is_holiday": false
+  },
+  {
+    "date": "12",
+    "day_of_week": "SAT",
+    "month_year": "November - 2022",
+    "event_description": "Commencement of II CIA Examinations",
+    "cycle_number": "14",
+    "day_order": "III",
+    "working_day_number": "81",
+    "is_holiday": false
+  },
+  {
+    "date": "13",
+    "day_of_week": "SUN",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "14",
+    "day_of_week": "MON",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": "14",
+    "day_order": "IV",
+    "working_day_number": "82",
+    "is_holiday": false
+  },
+  {
+    "date": "15",
+    "day_of_week": "TUE",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": "14",
+    "day_order": "V",
+    "working_day_number": "83",
+    "is_holiday": false
+  },
+  {
+    "date": "16",
+    "day_of_week": "WED",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": "14",
+    "day_order": "VI",
+    "working_day_number": "84",
+    "is_holiday": false
+  },
+  {
+    "date": "17",
+    "day_of_week": "THU",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": "15",
+    "day_order": "I",
+    "working_day_number": "85",
+    "is_holiday": false
+  },
+  {
+    "date": "18",
+    "day_of_week": "FRI",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": "15",
+    "day_order": "II",
+    "working_day_number": "86",
+    "is_holiday": false
+  },
+  {
+    "date": "19",
+    "day_of_week": "SAT",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "20",
+    "day_of_week": "SUN",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "21",
+    "day_of_week": "MON",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": "15",
+    "day_order": "III",
+    "working_day_number": "87",
+    "is_holiday": false
+  },
+  {
+    "date": "22",
+    "day_of_week": "TUE",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": "15",
+    "day_order": "IV",
+    "working_day_number": "88",
+    "is_holiday": false
+  },
+  {
+    "date": "23",
+    "day_of_week": "WED",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": "15",
+    "day_order": "V",
+    "working_day_number": "89",
+    "is_holiday": false
+  },
+  {
+    "date": "24",
+    "day_of_week": "THU",
+    "month_year": "November - 2022",
+    "event_description": "Last working day for the Odd Semester",
+    "cycle_number": "15",
+    "day_order": "VI",
+    "working_day_number": "90",
+    "is_holiday": false
+  },
+  {
+    "date": "25",
+    "day_of_week": "FRI",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "26",
+    "day_of_week": "SAT",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "27",
+    "day_of_week": "SUN",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "28",
+    "day_of_week": "MON",
+    "month_year": "November - 2022",
+    "event_description": "Commencement of ES Practical Examinations",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "29",
+    "day_of_week": "TUE",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "30",
+    "day_of_week": "WED",
+    "month_year": "November - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "1",
+    "day_of_week": "THU",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "2",
+    "day_of_week": "FRI",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "3",
+    "day_of_week": "SAT",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "4",
+    "day_of_week": "SUN",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "5",
+    "day_of_week": "MON",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "6",
+    "day_of_week": "TUE",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "7",
+    "day_of_week": "WED",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "8",
+    "day_of_week": "THU",
+    "month_year": "December - 2022",
+    "event_description": "Commencement of ES Theory Examinations",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "9",
+    "day_of_week": "FRI",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "10",
+    "day_of_week": "SAT",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "11",
+    "day_of_week": "SUN",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "12",
+    "day_of_week": "MON",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "13",
+    "day_of_week": "TUE",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "14",
+    "day_of_week": "WED",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "15",
+    "day_of_week": "THU",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "16",
+    "day_of_week": "FRI",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "17",
+    "day_of_week": "SAT",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "18",
+    "day_of_week": "SUN",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "19",
+    "day_of_week": "MON",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "20",
+    "day_of_week": "TUE",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "21",
+    "day_of_week": "WED",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "22",
+    "day_of_week": "THU",
+    "month_year": "December - 2022",
+    "event_description": "Central Valuation",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "23",
+    "day_of_week": "FRI",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "24",
+    "day_of_week": "SAT",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "25",
+    "day_of_week": "SUN",
+    "month_year": "December - 2022",
+    "event_description": "Christmas - Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "26",
+    "day_of_week": "MON",
+    "month_year": "December - 2022",
+    "event_description": "Re-opening for the Even semester",
+    "cycle_number": "1",
+    "day_order": "I",
+    "working_day_number": "1",
+    "is_holiday": false
+  },
+  {
+    "date": "27",
+    "day_of_week": "TUE",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": "1",
+    "day_order": "II",
+    "working_day_number": "2",
+    "is_holiday": false
+  },
+  {
+    "date": "28",
+    "day_of_week": "WED",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": "1",
+    "day_order": "III",
+    "working_day_number": "3",
+    "is_holiday": false
+  },
+  {
+    "date": "29",
+    "day_of_week": "THU",
+    "month_year": "December - 2022",
+    "event_description": "Publication of Odd Semester Examination Results",
+    "cycle_number": "1",
+    "day_order": "IV",
+    "working_day_number": "4",
+    "is_holiday": false
+  },
+  {
+    "date": "30",
+    "day_of_week": "FRI",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": "1",
+    "day_order": "V",
+    "working_day_number": "5",
+    "is_holiday": false
+  },
+  {
+    "date": "31",
+    "day_of_week": "SAT",
+    "month_year": "December - 2022",
+    "event_description": "",
+    "cycle_number": "1",
+    "day_order": "VI",
+    "working_day_number": "6",
+    "is_holiday": false
+  },
+  {
+    "date": "1",
+    "day_of_week": "SUN",
+    "month_year": "January - 2023",
+    "event_description": "New Year - Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "2",
+    "day_of_week": "MON",
+    "month_year": "January - 2023",
+    "event_description": "",
+    "cycle_number": "2",
+    "day_order": "I",
+    "working_day_number": "7",
+    "is_holiday": false
+  },
+  {
+    "date": "3",
+    "day_of_week": "TUE",
+    "month_year": "January - 2023",
+    "event_description": "",
+    "cycle_number": "2",
+    "day_order": "II",
+    "working_day_number": "8",
+    "is_holiday": false
+  },
+  {
+    "date": "4",
+    "day_of_week": "WED",
+    "month_year": "January - 2023",
+    "event_description": "",
+    "cycle_number": "2",
+    "day_order": "III",
+    "working_day_number": "9",
+    "is_holiday": false
+  },
+  {
+    "date": "5",
+    "day_of_week": "THU",
+    "month_year": "January - 2023",
+    "event_description": "",
+    "cycle_number": "2",
+    "day_order": "IV",
+    "working_day_number": "10",
+    "is_holiday": false
+  },
+  {
+    "date": "6",
+    "day_of_week": "FRI",
+    "month_year": "January - 2023",
+    "event_description": "",
+    "cycle_number": "2",
+    "day_order": "V",
+    "working_day_number": "11",
+    "is_holiday": false
+  },
+  {
+    "date": "7",
+    "day_of_week": "SAT",
+    "month_year": "January - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "8",
+    "day_of_week": "SUN",
+    "month_year": "January - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "9",
+    "day_of_week": "MON",
+    "month_year": "January - 2023",
+    "event_description": "",
+    "cycle_number": "2",
+    "day_order": "VI",
+    "working_day_number": "12",
+    "is_holiday": false
+  },
+  {
+    "date": "10",
+    "day_of_week": "TUE",
+    "month_year": "January - 2023",
+    "event_description": "",
+    "cycle_number": "3",
+    "day_order": "I",
+    "working_day_number": "13",
+    "is_holiday": false
+  },
+  {
+    "date": "11",
+    "day_of_week": "WED",
+    "month_year": "January - 2023",
+    "event_description": "",
+    "cycle_number": "3",
+    "day_order": "II",
+    "working_day_number": "14",
+    "is_holiday": false
+  },
+  {
+    "date": "12",
+    "day_of_week": "THU",
+    "month_year": "January - 2023",
+    "event_description": "",
+    "cycle_number": "3",
+    "day_order": "III",
+    "working_day_number": "15",
+    "is_holiday": false
+  },
+  {
+    "date": "13",
+    "day_of_week": "FRI",
+    "month_year": "January - 2023",
+    "event_description": "",
+    "cycle_number": "3",
+    "day_order": "IV",
+    "working_day_number": "16",
+    "is_holiday": false
+  },
+  {
+    "date": "14",
+    "day_of_week": "SAT",
+    "month_year": "January - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "15",
+    "day_of_week": "SUN",
+    "month_year": "January - 2023",
+    "event_description": "Pongal /Thiruvalluvar Day -Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "16",
+    "day_of_week": "MON",
+    "month_year": "January - 2023",
+    "event_description": "Uzhavar Thirunal - Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "17",
+    "day_of_week": "TUE",
+    "month_year": "January - 2023",
+    "event_description": "",
+    "cycle_number": "3",
+    "day_order": "V",
+    "working_day_number": "17",
+    "is_holiday": false
+  },
+  {
+    "date": "18",
+    "day_of_week": "WED",
+    "month_year": "January - 2023",
+    "event_description": "Issue of ESE Applications for all courses",
+    "cycle_number": "3",
+    "day_order": "VI",
+    "working_day_number": "18",
+    "is_holiday": false
+  },
+  {
+    "date": "19",
+    "day_of_week": "THU",
+    "month_year": "January - 2023",
+    "event_description": "",
+    "cycle_number": "4",
+    "day_order": "I",
+    "working_day_number": "19",
+    "is_holiday": false
+  },
+  {
+    "date": "20",
+    "day_of_week": "FRI",
+    "month_year": "January - 2023",
+    "event_description": "",
+    "cycle_number": "4",
+    "day_order": "II",
+    "working_day_number": "20",
+    "is_holiday": false
+  },
+  {
+    "date": "21",
+    "day_of_week": "SAT",
+    "month_year": "January - 2023",
+    "event_description": "",
+    "cycle_number": "4",
+    "day_order": "III",
+    "working_day_number": "21",
+    "is_holiday": false
+  },
+  {
+    "date": "22",
+    "day_of_week": "SUN",
+    "month_year": "January - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "23",
+    "day_of_week": "MON",
+    "month_year": "January - 2023",
+    "event_description": "",
+    "cycle_number": "4",
+    "day_order": "IV",
+    "working_day_number": "22",
+    "is_holiday": false
+  },
+  {
+    "date": "24",
+    "day_of_week": "TUE",
+    "month_year": "January - 2023",
+    "event_description": "",
+    "cycle_number": "4",
+    "day_order": "V",
+    "working_day_number": "23",
+    "is_holiday": false
+  },
+  {
+    "date": "25",
+    "day_of_week": "WED",
+    "month_year": "January - 2023",
+    "event_description": "",
+    "cycle_number": "4",
+    "day_order": "VI",
+    "working_day_number": "24",
+    "is_holiday": false
+  },
+  {
+    "date": "26",
+    "day_of_week": "THU",
+    "month_year": "January - 2023",
+    "event_description": "Republic Day - Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "27",
+    "day_of_week": "FRI",
+    "month_year": "January - 2023",
+    "event_description": "Last date for submission of Question Paper for I CIA Examinations",
+    "cycle_number": "5",
+    "day_order": "I",
+    "working_day_number": "25",
+    "is_holiday": false
+  },
+  {
+    "date": "28",
+    "day_of_week": "SAT",
+    "month_year": "January - 2023",
+    "event_description": "",
+    "cycle_number": "5",
+    "day_order": "II",
+    "working_day_number": "26",
+    "is_holiday": false
+  },
+  {
+    "date": "29",
+    "day_of_week": "SUN",
+    "month_year": "January - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "30",
+    "day_of_week": "MON",
+    "month_year": "January - 2023",
+    "event_description": "",
+    "cycle_number": "5",
+    "day_order": "III",
+    "working_day_number": "27",
+    "is_holiday": false
+  },
+  {
+    "date": "31",
+    "day_of_week": "TUE",
+    "month_year": "January - 2023",
+    "event_description": "Last Date for the payment of ESE fee (III Year UG) without fine",
+    "cycle_number": "5",
+    "day_order": "IV",
+    "working_day_number": "28",
+    "is_holiday": false
+  },
+  {
+    "date": "1",
+    "day_of_week": "WED",
+    "month_year": "February - 2023",
+    "event_description": "Last Date for the payment of ESE fee (II Year UG) without fine",
+    "cycle_number": "5",
+    "day_order": "V",
+    "working_day_number": "29",
+    "is_holiday": false
+  },
+  {
+    "date": "2",
+    "day_of_week": "THU",
+    "month_year": "February - 2023",
+    "event_description": "Last Date for the payment of ESE fee (I Year UG & PG and II Year PG) without fine",
+    "cycle_number": "5",
+    "day_order": "VI",
+    "working_day_number": "30",
+    "is_holiday": false
+  },
+  {
+    "date": "3",
+    "day_of_week": "FRI",
+    "month_year": "February - 2023",
+    "event_description": "Staff Welfare & Grievances Redressal Committee Meeting",
+    "cycle_number": "6",
+    "day_order": "I",
+    "working_day_number": "31",
+    "is_holiday": false
+  },
+  {
+    "date": "4",
+    "day_of_week": "SAT",
+    "month_year": "February - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "5",
+    "day_of_week": "SUN",
+    "month_year": "February - 2023",
+    "event_description": "Thaipusam - Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "6",
+    "day_of_week": "MON",
+    "month_year": "February - 2023",
+    "event_description": "Students Welfare and Grievances Redressal Committee Meeting",
+    "cycle_number": "6",
+    "day_order": "II",
+    "working_day_number": "32",
+    "is_holiday": false
+  },
+  {
+    "date": "7",
+    "day_of_week": "TUE",
+    "month_year": "February - 2023",
+    "event_description": "Project Review I Last date for the payment of ESE fee with fine of Rs.100 (III Year UG)",
+    "cycle_number": "6",
+    "day_order": "III",
+    "working_day_number": "33",
+    "is_holiday": false
+  },
+  {
+    "date": "8",
+    "day_of_week": "WED",
+    "month_year": "February - 2023",
+    "event_description": "Last date for the payment of ESE fee with fine of Rs.100 (II Year UG)",
+    "cycle_number": "6",
+    "day_order": "IV",
+    "working_day_number": "34",
+    "is_holiday": false
+  },
+  {
+    "date": "9",
+    "day_of_week": "THU",
+    "month_year": "February - 2023",
+    "event_description": "Last date for the payment of ESE fee with fine of Rs.100 (I Year UG, I & II Year PG)",
+    "cycle_number": "6",
+    "day_order": "V",
+    "working_day_number": "35",
+    "is_holiday": false
+  },
+  {
+    "date": "10",
+    "day_of_week": "FRI",
+    "month_year": "February - 2023",
+    "event_description": "",
+    "cycle_number": "6",
+    "day_order": "VI",
+    "working_day_number": "36",
+    "is_holiday": false
+  },
+  {
+    "date": "11",
+    "day_of_week": "SAT",
+    "month_year": "February - 2023",
+    "event_description": "",
+    "cycle_number": "7",
+    "day_order": "I",
+    "working_day_number": "37",
+    "is_holiday": false
+  },
+  {
+    "date": "12",
+    "day_of_week": "SUN",
+    "month_year": "February - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "13",
+    "day_of_week": "MON",
+    "month_year": "February - 2023",
+    "event_description": "",
+    "cycle_number": "7",
+    "day_order": "II",
+    "working_day_number": "38",
+    "is_holiday": false
+  },
+  {
+    "date": "14",
+    "day_of_week": "TUE",
+    "month_year": "February - 2023",
+    "event_description": "",
+    "cycle_number": "7",
+    "day_order": "III",
+    "working_day_number": "39",
+    "is_holiday": false
+  },
+  {
+    "date": "15",
+    "day_of_week": "WED",
+    "month_year": "February - 2023",
+    "event_description": "",
+    "cycle_number": "7",
+    "day_order": "IV",
+    "working_day_number": "40",
+    "is_holiday": false
+  },
+  {
+    "date": "16",
+    "day_of_week": "THU",
+    "month_year": "February - 2023",
+    "event_description": "College Day Celebrations",
+    "cycle_number": "7",
+    "day_order": "V",
+    "working_day_number": "41",
+    "is_holiday": false
+  },
+  {
+    "date": "17",
+    "day_of_week": "FRI",
+    "month_year": "February - 2023",
+    "event_description": "Prizes, Medals & Scholarships Distribution Function & Sports Day Celebrations",
+    "cycle_number": "7",
+    "day_order": "VI",
+    "working_day_number": "42",
+    "is_holiday": false
+  },
+  {
+    "date": "18",
+    "day_of_week": "SAT",
+    "month_year": "February - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "19",
+    "day_of_week": "SUN",
+    "month_year": "February - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "20",
+    "day_of_week": "MON",
+    "month_year": "February - 2023",
+    "event_description": "Commencement of I CIA Examinations",
+    "cycle_number": "8",
+    "day_order": "I",
+    "working_day_number": "43",
+    "is_holiday": false
+  },
+  {
+    "date": "21",
+    "day_of_week": "TUE",
+    "month_year": "February - 2023",
+    "event_description": "",
+    "cycle_number": "8",
+    "day_order": "II",
+    "working_day_number": "44",
+    "is_holiday": false
+  },
+  {
+    "date": "22",
+    "day_of_week": "WED",
+    "month_year": "February - 2023",
+    "event_description": "",
+    "cycle_number": "8",
+    "day_order": "III",
+    "working_day_number": "45",
+    "is_holiday": false
+  },
+  {
+    "date": "23",
+    "day_of_week": "THU",
+    "month_year": "February - 2023",
+    "event_description": "",
+    "cycle_number": "8",
+    "day_order": "IV",
+    "working_day_number": "46",
+    "is_holiday": false
+  },
+  {
+    "date": "24",
+    "day_of_week": "FRI",
+    "month_year": "February - 2023",
+    "event_description": "",
+    "cycle_number": "8",
+    "day_order": "V",
+    "working_day_number": "47",
+    "is_holiday": false
+  },
+  {
+    "date": "25",
+    "day_of_week": "SAT",
+    "month_year": "February - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "26",
+    "day_of_week": "SUN",
+    "month_year": "February - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "27",
+    "day_of_week": "MON",
+    "month_year": "February - 2023",
+    "event_description": "",
+    "cycle_number": "8",
+    "day_order": "VI",
+    "working_day_number": "48",
+    "is_holiday": false
+  },
+  {
+    "date": "28",
+    "day_of_week": "TUE",
+    "month_year": "February - 2023",
+    "event_description": "",
+    "cycle_number": "9",
+    "day_order": "I",
+    "working_day_number": "49",
+    "is_holiday": false
+  },
+  {
+    "date": "1",
+    "day_of_week": "WED",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": "9",
+    "day_order": "II",
+    "working_day_number": "50",
+    "is_holiday": false
+  },
+  {
+    "date": "2",
+    "day_of_week": "THU",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": "9",
+    "day_order": "III",
+    "working_day_number": "51",
+    "is_holiday": false
+  },
+  {
+    "date": "3",
+    "day_of_week": "FRI",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": "9",
+    "day_order": "IV",
+    "working_day_number": "52",
+    "is_holiday": false
+  },
+  {
+    "date": "4",
+    "day_of_week": "SAT",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "5",
+    "day_of_week": "SUN",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "6",
+    "day_of_week": "MON",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": "9",
+    "day_order": "V",
+    "working_day_number": "53",
+    "is_holiday": false
+  },
+  {
+    "date": "7",
+    "day_of_week": "TUE",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": "9",
+    "day_order": "VI",
+    "working_day_number": "54",
+    "is_holiday": false
+  },
+  {
+    "date": "8",
+    "day_of_week": "WED",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": "9",
+    "day_order": "I",
+    "working_day_number": "55",
+    "is_holiday": false
+  },
+  {
+    "date": "9",
+    "day_of_week": "THU",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": "9",
+    "day_order": "II",
+    "working_day_number": "56",
+    "is_holiday": false
+  },
+  {
+    "date": "10",
+    "day_of_week": "FRI",
+    "month_year": "March - 2023",
+    "event_description": "Library Committee Meeting",
+    "cycle_number": "9",
+    "day_order": "III",
+    "working_day_number": "57",
+    "is_holiday": false
+  },
+  {
+    "date": "11",
+    "day_of_week": "SAT",
+    "month_year": "March - 2023",
+    "event_description": "Board of Studies Meeting",
+    "cycle_number": "9",
+    "day_order": "IV",
+    "working_day_number": "58",
+    "is_holiday": false
+  },
+  {
+    "date": "12",
+    "day_of_week": "SUN",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "13",
+    "day_of_week": "MON",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": "9",
+    "day_order": "V",
+    "working_day_number": "59",
+    "is_holiday": false
+  },
+  {
+    "date": "14",
+    "day_of_week": "TUE",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": "9",
+    "day_order": "VI",
+    "working_day_number": "60",
+    "is_holiday": false
+  },
+  {
+    "date": "15",
+    "day_of_week": "WED",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": "9",
+    "day_order": "I",
+    "working_day_number": "61",
+    "is_holiday": false
+  },
+  {
+    "date": "16",
+    "day_of_week": "THU",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": "9",
+    "day_order": "II",
+    "working_day_number": "62",
+    "is_holiday": false
+  },
+  {
+    "date": "17",
+    "day_of_week": "FRI",
+    "month_year": "March - 2023",
+    "event_description": "Last date for submission of Question Paper for II CIA Exams",
+    "cycle_number": "9",
+    "day_order": "III",
+    "working_day_number": "63",
+    "is_holiday": false
+  },
+  {
+    "date": "18",
+    "day_of_week": "SAT",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "19",
+    "day_of_week": "SUN",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "20",
+    "day_of_week": "MON",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": "9",
+    "day_order": "IV",
+    "working_day_number": "64",
+    "is_holiday": false
+  },
+  {
+    "date": "21",
+    "day_of_week": "TUE",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": "9",
+    "day_order": "V",
+    "working_day_number": "65",
+    "is_holiday": false
+  },
+  {
+    "date": "22",
+    "day_of_week": "WED",
+    "month_year": "March - 2023",
+    "event_description": "Telugu New Year's Day - Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "23",
+    "day_of_week": "THU",
+    "month_year": "March - 2023",
+    "event_description": "Project Review II",
+    "cycle_number": "9",
+    "day_order": "VI",
+    "working_day_number": "66",
+    "is_holiday": false
+  },
+  {
+    "date": "24",
+    "day_of_week": "FRI",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": "10",
+    "day_order": "I",
+    "working_day_number": "67",
+    "is_holiday": false
+  },
+  {
+    "date": "25",
+    "day_of_week": "SAT",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": "10",
+    "day_order": "II",
+    "working_day_number": "68",
+    "is_holiday": false
+  },
+  {
+    "date": "26",
+    "day_of_week": "SUN",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "27",
+    "day_of_week": "MON",
+    "month_year": "March - 2023",
+    "event_description": "Standing Committee on Academic Affairs",
+    "cycle_number": "10",
+    "day_order": "III",
+    "working_day_number": "69",
+    "is_holiday": false
+  },
+  {
+    "date": "28",
+    "day_of_week": "TUE",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": "10",
+    "day_order": "IV",
+    "working_day_number": "70",
+    "is_holiday": false
+  },
+  {
+    "date": "29",
+    "day_of_week": "WED",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": "10",
+    "day_order": "V",
+    "working_day_number": "71",
+    "is_holiday": false
+  },
+  {
+    "date": "30",
+    "day_of_week": "THU",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": "10",
+    "day_order": "VI",
+    "working_day_number": "72",
+    "is_holiday": false
+  },
+  {
+    "date": "31",
+    "day_of_week": "FRI",
+    "month_year": "March - 2023",
+    "event_description": "",
+    "cycle_number": "11",
+    "day_order": "I",
+    "working_day_number": "73",
+    "is_holiday": false
+  },
+  {
+    "date": "1",
+    "day_of_week": "SAT",
+    "month_year": "April - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "2",
+    "day_of_week": "SUN",
+    "month_year": "April - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "3",
+    "day_of_week": "MON",
+    "month_year": "April - 2023",
+    "event_description": "",
+    "cycle_number": "11",
+    "day_order": "II",
+    "working_day_number": "74",
+    "is_holiday": false
+  },
+  {
+    "date": "4",
+    "day_of_week": "TUE",
+    "month_year": "April - 2023",
+    "event_description": "Mahaveer Jayanthi - Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "5",
+    "day_of_week": "WED",
+    "month_year": "April - 2023",
+    "event_description": "Last date for Submission of Projects - UG",
+    "cycle_number": "11",
+    "day_order": "III",
+    "working_day_number": "75",
+    "is_holiday": false
+  },
+  {
+    "date": "6",
+    "day_of_week": "THU",
+    "month_year": "April - 2023",
+    "event_description": "Last date for Submission of Projects - PG",
+    "cycle_number": "11",
+    "day_order": "IV",
+    "working_day_number": "76",
+    "is_holiday": false
+  },
+  {
+    "date": "7",
+    "day_of_week": "FRI",
+    "month_year": "April - 2023",
+    "event_description": "Good Friday - Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "8",
+    "day_of_week": "SAT",
+    "month_year": "April - 2023",
+    "event_description": "Academic Council Meeting",
+    "cycle_number": "11",
+    "day_order": "V",
+    "working_day_number": "77",
+    "is_holiday": false
+  },
+  {
+    "date": "9",
+    "day_of_week": "SUN",
+    "month_year": "April - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "10",
+    "day_of_week": "MON",
+    "month_year": "April - 2023",
+    "event_description": "",
+    "cycle_number": "11",
+    "day_order": "VI",
+    "working_day_number": "78",
+    "is_holiday": false
+  },
+  {
+    "date": "11",
+    "day_of_week": "TUE",
+    "month_year": "April - 2023",
+    "event_description": "Finance Committee Meeting",
+    "cycle_number": "12",
+    "day_order": "I",
+    "working_day_number": "79",
+    "is_holiday": false
+  },
+  {
+    "date": "12",
+    "day_of_week": "WED",
+    "month_year": "April - 2023",
+    "event_description": "",
+    "cycle_number": "12",
+    "day_order": "II",
+    "working_day_number": "80",
+    "is_holiday": false
+  },
+  {
+    "date": "13",
+    "day_of_week": "THU",
+    "month_year": "April - 2023",
+    "event_description": "",
+    "cycle_number": "12",
+    "day_order": "III",
+    "working_day_number": "81",
+    "is_holiday": false
+  },
+  {
+    "date": "14",
+    "day_of_week": "FRI",
+    "month_year": "April - 2023",
+    "event_description": "Tamil New Year's Day - Holiday & Dr.B.R.Ambedkar's Birthday - Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "15",
+    "day_of_week": "SAT",
+    "month_year": "April - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "16",
+    "day_of_week": "SUN",
+    "month_year": "April - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "17",
+    "day_of_week": "MON",
+    "month_year": "April - 2023",
+    "event_description": "Commencement of II CIA Examinations",
+    "cycle_number": "12",
+    "day_order": "IV",
+    "working_day_number": "82",
+    "is_holiday": false
+  },
+  {
+    "date": "18",
+    "day_of_week": "TUE",
+    "month_year": "April - 2023",
+    "event_description": "",
+    "cycle_number": "12",
+    "day_order": "V",
+    "working_day_number": "83",
+    "is_holiday": false
+  },
+  {
+    "date": "19",
+    "day_of_week": "WED",
+    "month_year": "April - 2023",
+    "event_description": "",
+    "cycle_number": "12",
+    "day_order": "VI",
+    "working_day_number": "84",
+    "is_holiday": false
+  },
+  {
+    "date": "20",
+    "day_of_week": "THU",
+    "month_year": "April - 2023",
+    "event_description": "",
+    "cycle_number": "13",
+    "day_order": "I",
+    "working_day_number": "85",
+    "is_holiday": false
+  },
+  {
+    "date": "21",
+    "day_of_week": "FRI",
+    "month_year": "April - 2023",
+    "event_description": "",
+    "cycle_number": "13",
+    "day_order": "II",
+    "working_day_number": "86",
+    "is_holiday": false
+  },
+  {
+    "date": "22",
+    "day_of_week": "SAT",
+    "month_year": "April - 2023",
+    "event_description": "Ramzan - Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "23",
+    "day_of_week": "SUN",
+    "month_year": "April - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "24",
+    "week_day": "MON",
+    "day_of_week": "MON",
+    "month_year": "April - 2023",
+    "event_description": "",
+    "cycle_number": "13",
+    "day_order": "III",
+    "working_day_number": "87",
+    "is_holiday": false
+  },
+  {
+    "date": "25",
+    "day_of_week": "TUE",
+    "month_year": "April - 2023",
+    "event_description": "",
+    "cycle_number": "13",
+    "day_order": "IV",
+    "working_day_number": "88",
+    "is_holiday": false
+  },
+  {
+    "date": "26",
+    "day_of_week": "WED",
+    "month_year": "April - 2023",
+    "event_description": "",
+    "cycle_number": "13",
+    "day_order": "V",
+    "working_day_number": "89",
+    "is_holiday": false
+  },
+  {
+    "date": "27",
+    "day_of_week": "THU",
+    "month_year": "April - 2023",
+    "event_description": "Last Working day for the Even Semester",
+    "cycle_number": "13",
+    "day_order": "VI",
+    "working_day_number": "90",
+    "is_holiday": false
+  },
+  {
+    "date": "28",
+    "day_of_week": "FRI",
+    "month_year": "April - 2023",
+    "event_description": "Commencement of ES Project/Practical Examinations",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "29",
+    "day_of_week": "SAT",
+    "month_year": "April - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "30",
+    "day_of_week": "SUN",
+    "month_year": "April - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "1",
+    "day_of_week": "MON",
+    "month_year": "May - 2023",
+    "event_description": "May Day - Holiday",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "2",
+    "day_of_week": "TUE",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "3",
+    "day_of_week": "WED",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "4",
+    "day_of_week": "THU",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "5",
+    "day_of_week": "FRI",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "6",
+    "day_of_week": "SAT",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "7",
+    "day_of_week": "SUN",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "8",
+    "day_of_week": "MON",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "9",
+    "day_of_week": "TUE",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "10",
+    "day_of_week": "WED",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "11",
+    "day_of_week": "THU",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "12",
+    "day_of_week": "FRI",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "13",
+    "day_of_week": "SAT",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "14",
+    "day_of_week": "SUN",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "15",
+    "day_of_week": "MON",
+    "month_year": "May - 2023",
+    "event_description": "Commencement of ES Theory Examinations",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "16",
+    "day_of_week": "TUE",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "17",
+    "day_of_week": "WED",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "18",
+    "day_of_week": "THU",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "19",
+    "day_of_week": "FRI",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "20",
+    "day_of_week": "SAT",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "21",
+    "day_of_week": "SUN",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "22",
+    "day_of_week": "MON",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "23",
+    "day_of_week": "TUE",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "24",
+    "day_of_week": "WED",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "25",
+    "day_of_week": "THU",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "26",
+    "day_of_week": "FRI",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "27",
+    "day_of_week": "SAT",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "28",
+    "day_of_week": "SUN",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "29",
+    "day_of_week": "MON",
+    "month_year": "May - 2023",
+    "event_description": "Central Valuation",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "30",
+    "day_of_week": "TUE",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  },
+  {
+    "date": "31",
+    "day_of_week": "WED",
+    "month_year": "May - 2023",
+    "event_description": "",
+    "cycle_number": null,
+    "day_order": null,
+    "working_day_number": null,
+    "is_holiday": true
+  }
+]
