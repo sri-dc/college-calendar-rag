@@ -57,7 +57,7 @@ def ask_calendar(user_query):
     else:
         results = collection.query(
             query_texts=[user_query],
-            n_results=15
+            n_results=20
         )
         retrieved_chunks = results['documents'][0]
 
